@@ -11,17 +11,27 @@ Will turn it into an application in next semester, currently learning andriod an
 STILL UNDER PROGRESS..But here's so far overview.
 
 # Price Comparison:
+
 #Search products
 ![image alt](https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005152.png?raw=true)
+
 #Compare prices
 ![image alt](https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005234.png?raw=true)
 ![image alt](https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005312.png?raw=true)
 ![image alt](https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005326.png?raw=true)
+
+#Redirects you to the actual e-commerce website
 ![image alt](https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005354.png?raw=true)
 
 # Brand Tracker main highlight:
+
 ![image alt](https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005414.png?raw=true)
+
 #Tells you when a brand is animal cruelty free etc
 ![image alt](https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005432.png?raw=true)
+
 #Tells you when a brand practices animal testing too
 ![image alt](https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005450.png?raw=true)
+
+# Deployment:
+Runs locally.
