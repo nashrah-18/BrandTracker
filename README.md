@@ -1,37 +1,117 @@
-# BrandTracker (Capstone sem 1): still under progress...
-Will turn it into an application in next semester, currently learning andriod and ai models integration. But for semester 1, here is a temporary website.
- 
-# What it does:
-- Tracks prices of the products across multiple e-commerce websites.
-- Search your favourite product and compare the prices, buy the same product at cheapest price.
-# HIGHTLIGHT: It tracks brands.
-- If you care about envoirnment, like animal creulty, presrvatives, etc, search your brand (Eg. Garnier, MamaEarth) and our bot will tell you whether the brand is safe or not. 
+# BrandTracker
 
-# Screenshots of the output!
-STILL UNDER PROGRESS..But here's so far overview.
+**Capstone Project (Semester 1)** — *Work in Progress* 
 
-# Price Comparison:
+**BrandTracker** is a smart price-tracking and brand-awareness platform.
+While this project will evolve into a **full-fledged application** in the next semester, the current version is a **temporary web application** built as part of the Semester 1 capstone.
+- Upcoming focus: **Android development** with **AI model integration** (hopefully).
 
-#Search products
-![image alt](https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005152.png?raw=true)
+---
 
-#Compare prices
-![image alt](https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005234.png?raw=true)
-![image alt](https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005312.png?raw=true)
-![image alt](https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005326.png?raw=true)
+## What Does BrandTracker Do?
 
-#Redirects you to the actual e-commerce website
-![image alt](https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005354.png?raw=true)
+### Price Comparison
 
-# Brand Tracker main highlight:
+* Tracks product prices across **multiple e-commerce platforms**
+* Search for your favorite product
+* Compare prices and **buy at the lowest available price**
+* Redirects you directly to the official e-commerce website
 
-![image alt](https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005414.png?raw=true)
+### Brand Awareness (Core Highlight)
 
-#Tells you when a brand is animal cruelty free etc
-![image alt](https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005432.png?raw=true)
+BrandTracker goes beyond prices — it tracks **brands**.
 
-#Tells you when a brand practices animal testing too
-![image alt](https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005450.png?raw=true)
+* Check whether a brand is:
 
-# Deployment:
-Runs locally.
+  * **Animal cruelty-free**
+  * **Environment-friendly**
+  * Involved in **animal testing**
+    
+* Useful for users who care about:
+  
+  * Ethical sourcing
+  * Environmental impact
+  * Clean and conscious brands
+* Example brands: *Garnier, MamaEarth*, and more
+
+---
+
+## Screenshots (Work in Progress)
+
+UI is still evolving. Below is a preview of the current implementation.
+
+---
+
+### Search Products
+
+<img src="https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005152.png?raw=true" width="500"/>
+
+---
+
+### Compare Prices Across Platforms
+
+<img src="https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005234.png?raw=true" width="500"/>
+
+<img src="https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005312.png?raw=true" width="500"/>
+
+<img src="https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005326.png?raw=true" width="500"/>
+
+---
+
+### Redirect to Official E-Commerce Website
+
+<img src="https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005354.png?raw=true" width="500"/>
+
+---
+
+### Brand Tracker — Main Feature
+
+<img src="https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005414.png?raw=true" width="500"/>
+
+---
+
+### Identifies Cruelty-Free Brands
+
+<img src="https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005432.png?raw=true" width="500"/>
+
+---
+
+### Identifies Brands That Practice Animal Testing
+
+<img src="https://github.com/nashrah-18/BrandTracker/blob/main/Screenshot%202025-12-31%20005450.png?raw=true" width="500"/>
+
+---
+
+## Tech Stack
+
+* Frontend: *JS/HTML/CSS*
+* Backend: *Python*
+* Data Source: *Used own dataset file*
+
+---
+
+## 🚀 Deployment
+
+* Currently **runs locally**
+* Online deployment planned in future versions
+
+---
+
+## 🔮 Future Scope
+
+* Android app release
+* AI-powered brand trust scoring
+* User accounts & saved products
+
+---
+
+## 🤝 Contributions
+
+This project is under active development.
+Suggestions, ideas, and contributions are welcome!
+
+---
+
+## ⭐ Support
+
+If you find this project interesting, consider giving it a **star ⭐**.
