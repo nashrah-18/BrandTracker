@@ -9,12 +9,16 @@ import ComparisonPanel from './components/ComparisonPanel';
 import ChatbotSidebar from './components/ChatbotSidebar';
 import { sampleProducts } from './data/products';
 import { Toaster } from './components/ui/toaster';
+import ConnectModal from "./components/ConnectModal";
+
 
 function App() {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedProducts, setSelectedProducts] = useState([]);
   const [isChatbotOpen, setIsChatbotOpen] = useState(false);
   const [filteredProducts, setFilteredProducts] = useState(sampleProducts);
+  const [isConnectOpen, setIsConnectOpen] = useState(false);
+
 
   const handleSearch = (query) => {
     setSearchQuery(query);
@@ -63,7 +67,8 @@ function App() {
         </div>
 
         <div className="relative z-10">
-          <Header />
+          <Header onConnectClick={() => setIsConnectOpen(true)} />
+
           
           <main className="container mx-auto px-4 py-8">
             {/* Hero Section */}
@@ -141,6 +146,12 @@ function App() {
 
         {/* Chatbot Sidebar */}
         <ChatbotSidebar isOpen={isChatbotOpen} onClose={() => setIsChatbotOpen(false)} />
+
+        {/* Connect Modal */}
+        <ConnectModal
+        isOpen={isConnectOpen}
+        onClose={() => setIsConnectOpen(false)}
+        />
 
         <Toaster />
       </div>
