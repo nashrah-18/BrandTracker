@@ -1,9 +1,8 @@
 # BrandTracker
 
-**Capstone Project (Semester 1)** — *Work in Progress* 
+**Capstone Project (Semester 1)**  
 
 **BrandTracker** is a smart price-tracking and brand-awareness platform.
-While this project will evolve into a **full-fledged application** in the next semester, the current version is a **temporary web application** built as part of the Semester 1 capstone.
 - Upcoming focus: **Android development** with **AI model integration** (hopefully).
 
 ---
@@ -107,7 +106,7 @@ UI is still evolving. Below is a preview of the current implementation.
 
 ## 🤝 Contributions
 
-This project is under active development.
+This project is under active development and research.
 Suggestions, ideas, and contributions are welcome!
 
 ---
